@@ -1,6 +1,6 @@
 About
 _____
-The python script was written by Mykyta Lazariev (s15928)
+The python script was written by s15928
 
 
 Instruction
