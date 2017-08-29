@@ -18,7 +18,7 @@ name = input("->put the name of file with text\n")
 if(name==""):
 	name='text'
 file = open(name+'.txt')
-result = '<?xml version="1.0" author="Mykyta Lazariev" s="15928"?>\n<text>\n'
+result = '<?xml version="1.0" author="15928"?>\n<text>\n'
 licznik_akapit = 0
 
 
