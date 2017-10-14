@@ -1,5 +1,4 @@
 
-#Lazariev Mykyta
 #s15928
 
 import re 
